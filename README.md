@@ -48,7 +48,7 @@ Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it
 
 2. Click [FORK](https://github.com/KINGS-AS/RDX/fork)
 
-3. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click GO<br>
+3. Now https://heroku.com/deploy?template=https://github.com/Adnan073/RDX copy this url and change KINGS-AS with your github username and click GO<br>
 
 ### this method not working ⬇️
 
